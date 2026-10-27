@@ -1,0 +1,38 @@
+[
+  {
+    "round": 0,
+    "network_distortion": 0.9299384931102396,
+    "acc_fine": 0.956,
+    "acc_coarse": 0.9695
+  },
+  {
+    "round": 1,
+    "network_distortion": 0.5977086454629897,
+    "acc_fine": 0.9645,
+    "acc_coarse": 0.979
+  },
+  {
+    "round": 2,
+    "network_distortion": 0.5709572258405388,
+    "acc_fine": 0.9665,
+    "acc_coarse": 0.9765
+  },
+  {
+    "round": 3,
+    "network_distortion": 0.5429958704859019,
+    "acc_fine": 0.967,
+    "acc_coarse": 0.9805
+  },
+  {
+    "round": 4,
+    "network_distortion": 0.5348338501993567,
+    "acc_fine": 0.9635,
+    "acc_coarse": 0.9785
+  },
+  {
+    "round": 5,
+    "network_distortion": 0.5011429102625697,
+    "acc_fine": 0.9715,
+    "acc_coarse": 0.9815
+  }
+]
